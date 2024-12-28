@@ -29,7 +29,7 @@ options = Options()
 options.set_capability('browser', 'Chrome')
 options.set_capability('browser_version', 'latest')
 options.set_capability('os', 'Windows')
-options.set_capability('os_version', '10')
+options.set_capability('os_version', '11')
 options.set_capability('name', 'Opinion Articles Scraper')  # Test name
 options.set_capability('build', 'build_1')
 options.set_capability('browserstack.local', 'false')
